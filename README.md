@@ -22,25 +22,12 @@ Travelo is a modern and responsive travel landing page built using pure **HTML5*
 * Google Fonts
 * Font Awesome (if used)
 
-## 📂 Project Structure
-
-```
-Travelo/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── images/
-├── assets/
-└── README.md
-```
-
 ## 🚀 Getting Started
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/travelo.git
+git clone https://github.com/sbnnet168/Travelo-Project.git
 ```
 
 2. Open the project folder.
@@ -53,13 +40,6 @@ No installation or dependencies are required.
 
 This project was created to practice responsive web design and improve front-end development skills using only HTML and CSS.
 
-## 📸 Preview
-
-Add screenshots of your project here.
-
-```
-images/preview.png
-```
 
 ## 🤝 Contributing
 
